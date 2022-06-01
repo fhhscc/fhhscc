@@ -1,8 +1,11 @@
+
+
 - 👋 Hi, I’m Fuhwa High school !
 - 👀 I’m interested in education!
 - 🌱 I’m currently learning EVERYTHING about Information technology!
 
 - 📫 How to reach me ... fhhscc@fhhs.kh.edu.tw
+- 📫 https://www.fhhs.kh.edu.tw/new/index.html
 
 <!---
 fhhscc/fhhscc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
